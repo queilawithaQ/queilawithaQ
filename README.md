@@ -1,6 +1,6 @@
 hey! i’m @queilawithaQ aka @cu2y
- + i play around and like to develop i created a new account/repository to start a fresh slate and (correctly) reconfigure my virtual environments. 
-    please do not hesitate to reach me via email or @ if you'd like my collab or if you have any suggestions/ tweaks :) 
+ +  like to develop, repo's reconfigured to my virtual environments. 
+   
 
 
 <!---
